@@ -5,8 +5,8 @@
 | 下载入口 | 使用方法 |
 | --- | --- |
 | [最新主配置包](https://github.com/Oakend/ahan-study-assistant/releases/latest) | 在发布页的 Assets 下载主配置 ZIP，解压后打开《使用说明.md》。 |
-| [Windows 10/11 安装助手](https://github.com/Oakend/ahan-study-assistant/releases/download/v1.0.2/AhanStudyAssistant-Windows-latest.zip) | 解压后双击 `Install-AhanStudyAssistant.cmd`。 |
-| [macOS 安装助手](https://github.com/Oakend/ahan-study-assistant/releases/download/v1.0.2/AhanStudyAssistant-macOS-latest.zip) | 解压后双击 `Install-AhanStudyAssistant.command`。 |
+| [Windows 10/11 安装助手](https://github.com/Oakend/ahan-study-assistant/releases/latest/download/AhanStudyAssistant-Windows-latest.zip) | 解压后双击 `Install-AhanStudyAssistant.cmd`。 |
+| [macOS 安装助手](https://github.com/Oakend/ahan-study-assistant/releases/latest/download/AhanStudyAssistant-macOS-latest.zip) | 解压后双击 `Install-AhanStudyAssistant.command`。 |
 
 两款安装助手每次启动都会查询 GitHub 最新正式版，下载对应的主配置包，并在解压前校验 SHA-256。
 
